@@ -1,0 +1,91 @@
+﻿html {
+    max-width: 700px;
+    font-family: Courier New, Courier, monospace;
+    margin: 0 auto;
+}
+
+.profile-picture {
+    width: 300px;
+    height: 300px;
+    border: 5px solid mediumpurple;
+}
+
+.music-picture{
+    width:200px;
+    height:150px;
+    border: 5px solid mediumpurple;
+    border-radius: 150px;
+    
+}
+
+
+li{
+    font-size:small;
+}
+
+.list-headingTwo{
+    font-size:large;
+    color:deeppink;
+    list-style: none;
+    font-weight:bold;
+    padding-left:15px;
+}
+
+.list-text{
+    font-size:15px
+}
+
+h1 {
+    color: deeppink;
+    font-family: Courier New;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    font-size:30px;
+}
+
+ .image-holder {
+    text-align: center;
+}
+ .music-holder{
+     text-align:end;
+ }
+
+ .headingOne{
+     color:deeppink;
+ }
+
+ .headingTwo{
+     color:mediumpurple;
+ }
+
+.overview{
+    margin-left: 20px;
+}
+
+
+
+.list-headings {
+    font-size:large;
+    font-weight: bold;
+    list-style: none;
+    color:mediumpurple;
+    padding-left:15px;
+}
+
+table {
+    width: 70%;
+    border: 4px solid mediumpurple;
+    background-color: #ffb3d9;
+}
+
+td {
+    border: 1px solid mediumpurple;
+    background-color: #ffb3d9;
+}
+
+
+
